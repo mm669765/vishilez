@@ -1,7 +1,11 @@
 .syx {
-    height: 500px; /* Высота блока */
-    width: 500px; /* Ширина блока */
+    height: 500px; /* Г‚Г»Г±Г®ГІГ  ГЎГ«Г®ГЄГ  */
+    width: 500px; /* ГГЁГ°ГЁГ­Г  ГЎГ«Г®ГЄГ  */
     overflow: scroll;
     background-color:#27d650;
+    border-radius:50;
+}
+.cv {
+    background-color:blue;
     border-radius:50;
 }
