@@ -1,0 +1,7 @@
+.syx {
+    height: 500px; /* Высота блока */
+    width: 500px; /* Ширина блока */
+    overflow: scroll;
+    background-color:#27d650;
+    border-radius:50;
+}
